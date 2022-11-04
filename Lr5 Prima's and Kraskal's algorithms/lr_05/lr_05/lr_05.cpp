@@ -107,12 +107,12 @@ void Kruskal()
 
 			if (cyclenumber)
 			{
-				if ((lines[list[j][i] - 1]) && (!lines[list[j][2] - 1]) ||
+				if ((lines[list[j][1] - 1]) && (!lines[list[j][2] - 1]) ||
 					(!lines[list[j][1] - 1]) && (lines[list[j][2] - 1]) ||
 					(!lines[list[j][1] - 1]) && (!lines[list[j][2] - 1]) ||
 					(lines[list[j][1] - 1]) && (lines[list[j][2] - 1]) && !edgecounter)
 				{
-					if ((lines[list[j][1] - 1]) && (lines[list[j][2] - 1]) || (visited[SIZE]) && (!edgecounter))
+					if ((lines[list[j][1] - 1]) && (lines[list[j][2] - 1]) || (visited[SIZE - 1]) && (!edgecounter))
 					{
 						edgecounter++;
 						cout << list[j][1] << " -> " << list[j][2] << endl;
