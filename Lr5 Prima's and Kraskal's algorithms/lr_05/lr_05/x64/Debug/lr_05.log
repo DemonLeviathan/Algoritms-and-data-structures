@@ -1,0 +1,5 @@
+﻿  lr_05.cpp
+D:\Универ\3-й семестр\Лабы АиСД\Lr5 Prima's and Kraskal's algorithms\lr_05\lr_05\lr_05.cpp(105,15): warning C4552: "-": результат выражения не используется
+D:\Универ\3-й семестр\Лабы АиСД\Lr5 Prima's and Kraskal's algorithms\lr_05\lr_05\lr_05.cpp(106,15): warning C4552: "-": результат выражения не используется
+D:\Универ\3-й семестр\Лабы АиСД\Lr5 Prima's and Kraskal's algorithms\lr_05\lr_05\lr_05.cpp(133,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lr_05.vcxproj -> D:\Универ\3-й семестр\Лабы АиСД\Lr5 Prima's and Kraskal's algorithms\lr_05\x64\Debug\lr_05.exe
